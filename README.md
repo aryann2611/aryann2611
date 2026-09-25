@@ -14,13 +14,9 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔧 Backend developer building REST APIs and services with **TypeScript**, **Node.js** and **Fastify**
-- 💳 Working on **payments, payouts and accounting** systems: double-entry transactions, seller settlements and bank payout integrations
-- 🧩 I care about clean architecture: dependency injection, schema validation, typed SQL and well-documented APIs
-- 🧠 Sharpening problem-solving on **LeetCode**
-- 🌱 Always learning and building
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="Aryan Singh, Backend Developer focused on payments, payouts and accounting systems" />
+</p>
 
 ---
 
