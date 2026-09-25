@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 226" width="820" height="226" role="img" aria-label="How a request moves through my backend: client, Fastify routes with JWT, Zod validation, services, MySQL via Kysely, then a 200 OK response">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;text-anchor:middle}
+.t{font-size:15px;font-weight:700;fill:#e6edf3}.s{font-size:12px;fill:#7d8fa0}
+.lb{font-size:12px;fill:#6e7f8d;text-anchor:start}.rl{font-size:12px;fill:#6e7f8d;text-anchor:end}
+.ln{stroke:#3d6b7f;stroke-width:1.5}.rt{fill:none;stroke:#2f5d45;stroke-width:1.5;stroke-dasharray:5 5}
+.ok{font-size:13px;fill:#7ee787}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#172f3a"/></linearGradient>
+<filter id="gl" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x=".5" y=".5" width="819" height="225" rx="14" fill="url(#bg)" stroke="#2c5364"/>
+<text x="26" y="36" class="lb">// request lifecycle</text>
+<text x="794" y="36" class="rl">every endpoint, every time</text>
+<line x1="154" y1="96" x2="180" y2="96" class="ln"/><path d="M179,92 L185,96 L179,100Z" fill="#3d6b7f"/>
+<line x1="314" y1="96" x2="340" y2="96" class="ln"/><path d="M339,92 L345,96 L339,100Z" fill="#3d6b7f"/>
+<line x1="474" y1="96" x2="500" y2="96" class="ln"/><path d="M499,92 L505,96 L499,100Z" fill="#3d6b7f"/>
+<line x1="634" y1="96" x2="660" y2="96" class="ln"/><path d="M659,92 L665,96 L659,100Z" fill="#3d6b7f"/>
+<path d="M730,128 V172 H90 V128" class="rt"/>
+<circle r="5" fill="#36bcf7" filter="url(#gl)"><animateMotion path="M90,96 H730" dur="6s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.46;1" dur="6s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#7ee787" filter="url(#gl)" opacity="0"><animateMotion path="M730,128 V172 H90 V128" dur="6s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.55;0.9;1" calcMode="linear"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.54;0.55;0.9;0.91;1" dur="6s" repeatCount="indefinite"/></circle>
+<rect x="26" y="64" width="128" height="64" rx="10" fill="#0e222b" stroke="#2c5364" stroke-width="1.5"><animate attributeName="stroke" values="#36bcf7;#2c5364;#2c5364;#7ee787;#2c5364" keyTimes="0;0.08;0.9;0.95;1" dur="6s" repeatCount="indefinite"/></rect><text x="90" y="92" class="t">Client</text><text x="90" y="112" class="s">request</text>
+<rect x="186" y="64" width="128" height="64" rx="10" fill="#0e222b" stroke="#2c5364" stroke-width="1.5"><animate attributeName="stroke" values="#2c5364;#2c5364;#36bcf7;#2c5364;#2c5364" keyTimes="0;0.0925;0.1125;0.1925;1" dur="6s" repeatCount="indefinite"/></rect><text x="250" y="92" class="t">Fastify</text><text x="250" y="112" class="s">routes · JWT</text>
+<rect x="346" y="64" width="128" height="64" rx="10" fill="#0e222b" stroke="#2c5364" stroke-width="1.5"><animate attributeName="stroke" values="#2c5364;#2c5364;#36bcf7;#2c5364;#2c5364" keyTimes="0;0.2050;0.2250;0.3050;1" dur="6s" repeatCount="indefinite"/></rect><text x="410" y="92" class="t">Zod</text><text x="410" y="112" class="s">validation</text>
+<rect x="506" y="64" width="128" height="64" rx="10" fill="#0e222b" stroke="#2c5364" stroke-width="1.5"><animate attributeName="stroke" values="#2c5364;#2c5364;#36bcf7;#2c5364;#2c5364" keyTimes="0;0.3175;0.3375;0.4175;1" dur="6s" repeatCount="indefinite"/></rect><text x="570" y="92" class="t">Services</text><text x="570" y="112" class="s">logic · DI</text>
+<rect x="666" y="64" width="128" height="64" rx="10" fill="#0e222b" stroke="#2c5364" stroke-width="1.5"><animate attributeName="stroke" values="#2c5364;#2c5364;#36bcf7;#36bcf7;#2c5364;#2c5364" keyTimes="0;0.43;0.45;0.55;0.62;1" dur="6s" repeatCount="indefinite"/></rect><text x="730" y="92" class="t">MySQL</text><text x="730" y="112" class="s">via Kysely</text>
+<text x="410" y="202" class="ok">◂ 200 OK <tspan fill="#6e7f8d">·  validated  ·  typed  ·  tested</tspan></text>
+</svg>
