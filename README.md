@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/aryann2611">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Backend+Developer;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Fastify+%E2%80%A2+MySQL;Turning+ideas+into+APIs+that+just+work;Clean+APIs.+Reliable+data.+Tested+code." alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Fastify+%E2%80%A2+MySQL;Turning+ideas+into+APIs+that+just+work;Clean+APIs.+Reliable+data.+Tested+code." alt="typing animation" />
   </a>
 </p>
 
