@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/aryann2611">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Backend+Developer;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Fastify+%E2%80%A2+MySQL;Building+payment+%26+accounting+systems;Clean+APIs.+Reliable+data.+Tested+code." alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Backend+Developer;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Fastify+%E2%80%A2+MySQL;Turning+ideas+into+APIs+that+just+work;Clean+APIs.+Reliable+data.+Tested+code." alt="typing animation" />
   </a>
 </p>
 
@@ -15,12 +15,12 @@
 ---
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="Aryan Singh, Backend Developer focused on payments, payouts and accounting systems" />
+  <img src="./assets/about.svg" width="100%" alt="Aryan Singh, Backend Developer who builds the servers, APIs and databases behind apps" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,mysql,git,github&theme=dark" alt="tech stack icons" />
@@ -37,10 +37,10 @@
 
 ---
 
-### 📊 GitHub Activity
+### How I Build
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryann2611&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="./assets/how-i-build.svg" width="100%" alt="How a request moves through my backend: client, Fastify routes with JWT, Zod validation, services, MySQL via Kysely, then a 200 OK response" />
 </p>
 
 <p align="center">
