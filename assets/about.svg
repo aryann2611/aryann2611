@@ -28,10 +28,10 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 <text x="26" y="196" class="o" style="animation-delay:3.2s"><tspan class="u">▸</tspan> If a button just works when you tap it, someone like me made it happen</text>
 <text x="26" y="240" clip-path="url(#c2)"><tspan class="u">aryan</tspan><tspan class="g">@</tspan><tspan class="h">backend</tspan> <tspan class="y">~</tspan> <tspan class="g">$</tspan> cat fun-facts.txt</text>
 <text x="26" y="266" class="o" style="animation-delay:4.8s"><tspan class="u">▸</tspan> I write tests so my bugs get caught before anyone else meets them</text>
-<text x="26" y="290" class="o" style="animation-delay:5.1s"><tspan class="u">▸</tspan> LeetCode is my daily workout (the brain kind)</text>
+<text x="26" y="290" class="o" style="animation-delay:5.1s"><tspan class="u">▸</tspan> Favourite HTTP status is 200 OK, but 500 and I know each other well</text>
 <text x="26" y="314" class="o" style="animation-delay:5.3s"><tspan class="u">▸</tspan> Gojo fan, so naturally my code aims to be <tspan class="y">Limitless</tspan></text>
 <text x="26" y="358" clip-path="url(#c3)"><tspan class="u">aryan</tspan><tspan class="g">@</tspan><tspan class="h">backend</tspan> <tspan class="y">~</tspan> <tspan class="g">$</tspan> ls ~/currently</text>
-<text x="26" y="384" class="o" style="animation-delay:6.9s"><tspan class="f">building-cool-stuff/</tspan>   <tspan class="f">leveling-up-daily/</tspan>   <tspan class="f">solving-leetcode/</tspan></text>
+<text x="26" y="384" class="o" style="animation-delay:6.9s"><tspan class="f">building-cool-stuff/</tspan>   <tspan class="f">shipping-features/</tspan>   <tspan class="f">leveling-up-daily/</tspan></text>
 <g class="o" style="animation-delay:7.5s"><text x="26" y="428"><tspan class="u">aryan</tspan><tspan class="g">@</tspan><tspan class="h">backend</tspan> <tspan class="y">~</tspan> <tspan class="g">$</tspan> <tspan class="k u">█</tspan></text></g>
 <rect x=".5" y=".5" width="819" height="453" rx="14" fill="none" stroke="#2c5364"/>
 </svg>
